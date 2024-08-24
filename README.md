@@ -12,6 +12,7 @@ This repository contains the code and resources for our mini project on predicti
 ## Repository Contents
 
 **Used Cars Prediction.ipynb:** Google Colab notebook containing the web scraping code and data extraction process.
+**Raghav_Bhardwaj_Cars24_com.ipynb:** Google Colab notebook containing the web scraping code and data extraction process done by me as part of my contirbution to the team project.
 **Price Prediction of Used Cars.pdf:** The final project report submitted as part of our coursework, outlining the entire process and findings.
 
 ## How to Use
